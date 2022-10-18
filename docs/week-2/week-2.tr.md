@@ -10,12 +10,12 @@ _class: lead
 paginate: true
 backgroundColor: #fff
 backgroundImage: url('https://marp.app/assets/hero-background.svg')
-header: 'Örnek Ders Adı'
+header: 'Algoritma ve Programlama'
 footer: '![height:50px](http://erdogan.edu.tr/Images/Uploads/MyContents/L_379-20170718142719217230.jpg) RTEU CE204 Hafta-2'
-title: "Örnek Ders Adı"
-author: "Yazar: Dr. Öğr. Üyesi Uğur CORUH"
+title: "Algoritma ve Programlama"
+author: "Yazar: Samet KARAŞ"
 date:
-subtitle: "Örnek Ders Modülü Adı"
+subtitle: "Algoritma ve Programlama"
 geometry: "left=2.54cm,right=2.54cm,top=1.91cm,bottom=1.91cm"
 titlepage: true
 titlepage-color: "FFFFFF"
@@ -35,7 +35,7 @@ disable-header-and-footer: false
 header-left:
 header-center:
 header-right:
-footer-left: "© Dr. Öğr. Üyesi Uğur CORUH"
+footer-left: "© Samet KARAŞ"
 footer-center: "License: WTFPL"
 footer-right:
 subparagraph: true
@@ -46,15 +46,15 @@ math: katex
 
 <!-- _backgroundColor: aquq -->
 
-<!-- _color: orange -->
+<!-- _color: darkgreen -->
 
 <!-- paginate: false -->
 
-## Örnek Ders Adı
+## Algoritma ve Programlama
 
-### Hafta-2 (Örnek Ders Modülü Adı)
+### Hafta-2 (Programlamaya Giriş)
 
-#### Bahar Dönemi, 20XX-20XX
+#### Bahar Dönemi, 2022-2023
 
 İndir [DOC](week-2.tr.md_doc.pdf), [SLIDE](week-2.tr.md_slide.pdf), [PPTX](week-2.tr.md_slide.pptx)
 
@@ -64,166 +64,42 @@ math: katex
 
 <!-- paginate: true -->
 
-### Anahat
+### Programlamaya Giriş
 
-- Örnek Anahat
-- Örnek Anahat
-- Örnek Anahat
-- Örnek Anahat
+- Programlama Nedir ?
 
 ---
 
-## **Örnek Konu**
+## **Programlama Nedir ?**
 
 ---
 
-### Örnek Konu
+### Programlama
 
-- **Lorem Ipsum nedir?**
-Lorem Ipsum, basım ve dizgi endüstrisinin basit bir sahte metnidir. Lorem Ipsum, 1500'lerden beri endüstrinin standart sahte metni olmuştur.
-   - bilinmeyen bir matbaacı bir tür kadırga alıp onu bir tip numune kitabı yapmak için karıştırdığında. Sadece beş yüzyıl hayatta kalmadı,
-     - ama aynı zamanda, esasen değişmeden kalan elektronik dizgiye geçiş.
-       - 1960'larda Lorem Ipsum pasajları içeren Letraset sayfalarının yayınlanmasıyla ve daha yakın zamanda Aldus PageMaker gibi Lorem Ipsum sürümlerini içeren masaüstü yayıncılık yazılımlarıyla popüler hale geldi.
----
+- **Programlamanın Tanımı**
+  Programlama, bilgisayara donanıma nasıl davranacağını söyleyen, bilgisayarı yönlendiren komutlar, kelimeler, aritmetik işlemlerdir. Başka bir deyişle programlama, bilgisayar programlarının yazılması, test edilmesi ve sürdürülmesi sürecine verilen addır.
 
-### Örnek Resimler-1
-
-- **Lorem Ipsum nedir?**
-Lorem Ipsum, basım ve dizgi endüstrisinin basit bir sahte metnidir. Lorem Ipsum, 1500'lerden beri endüstrinin standart sahte metni olmuştur.
-
-![center h:400px](assets/sample-1.png)
+Programlama bir programlama dilinde yapılır. Bu programlama dili, Java ve C # gibi üst düzey bir dilin yanı sıra C, assembly ve bazı durumlarda makine dili olabilir. Yazılı kaynak kodu genellikle bir derleyici ve bağlayıcı yardımıyla belirli bir sistemde yürütülebilir hale getirilir. Buna ek olarak, kaynak kodu bir tercüman yardımı ile derlemeye gerek kalmadan satır satır çalıştırılabilir.
 
 ---
 
-### Örnek Resimler-2
-
-- **Lorem Ipsum nedir?**
-Lorem Ipsum, basım ve dizgi endüstrisinin basit bir sahte metnidir. Lorem Ipsum, 1500'lerden beri endüstrinin standart sahte metni olmuştur.
-
-![bg right:50% h:400px](assets/sample-1.png)
+- Yazılan veya ortografik okunan programlarda mantıksal hatalarınız olsun, derleyici, kullanıcıya bir hata göstererek veya programı çalıştırarak ve sonucu temsil ederek programı iyileştirmeye yardımcı olmak için bulduğu hataları bulur, ayrıca diğer birçok özelliği barındırabilecek özellik türüne göre (fareyi bir özelliğin üzerine getirerek). değişken yazıldığı zaman kodda fonksiyon vurgulandığında değişkenin özelliklerini göstermek için fonksiyonu bulup satıra gidebilmek, kodu okumayı kolaylaştırmak için kod almak için bölge yardımı ile etiket oluşturmak, vb.) platformlardır.
 
 ---
 
-### Örnek Resimler-3
+### Programming
 
-- **Lorem Ipsum nedir?**
-Lorem Ipsum, basım ve dizgi endüstrisinin basit bir sahte metnidir. Lorem Ipsum, 1500'lerden beri endüstrinin standart sahte metni olmuştur.
-
-![bg left:50% h:400px](assets/sample-1.png)
+- ![center h:400px](assets/programming.png)
 
 ---
 
-### Örnek Resimler-4
-
-- **Lorem Ipsum nedir?**
-Lorem Ipsum, basım ve dizgi endüstrisinin basit bir sahte metnidir. Lorem Ipsum, 1500'lerden beri endüstrinin standart sahte metni olmuştur.
-
-![bg h:400px](assets/sample-1.png)
-
----
-
-### Örnek Resimler-5
-
-- **Lorem Ipsum nedir?**
-Lorem Ipsum, basım ve dizgi endüstrisinin basit bir sahte metnidir. Lorem Ipsum, 1500'lerden beri endüstrinin standart sahte metni olmuştur.
-
-![bg left:50% h:800px](assets/sample-1.png)
-![bg left:50% h:800px](assets/sample-2.png)
-
----
-
-### Örnek Resimler-6
-
-- **Lorem Ipsum nedir?**
-Lorem Ipsum, basım ve dizgi endüstrisinin basit bir sahte metnidir. Lorem Ipsum, 1500'lerden beri endüstrinin standart sahte metni olmuştur.
-
-![bg left:50% h:300px](assets/sample-1.png)
-![bg left:50% h:500px](assets/sample-2.png)
-
----
-
-###  Latex Örneği-1
-
-$$
-\begin{align}
-  \begin{aligned}
-  \text{compute } m[i,i+1] \\
-  \underbrace{ \{ m[1,2],m[2,3], \dots ,m[n-1,n]\} }_{(n-1) \text{ values}}
-  \end{aligned}
-    & \begin{cases}
-    & \ell=2  \\
-    & \text{for } i=1 \text{ to } n-1 \text{ do } \\
-    & \quad m[i,i+1]=\infty \\
-    & \quad \quad \text{for } k=i \text{ to } i \text{ do } \\
-    &  \quad \quad \quad \vdots
-    \end{cases} \\
-  \begin{aligned}
-  \text{compute } m[i,i+2] \\
-  \underbrace{ \{ m[1,3],m[2,4], \dots ,m[n-2,n]\} }_{(n-2) \text{ values}}
-  \end{aligned}
-    & \begin{cases}
-    & \ell=3  \\
-    & \text{for } i=1 \text{ to } n-2 \text{ do } \\
-    & \quad m[i,i+2]=\infty \\
-    & \quad \quad \text{for } k=i \text{ to } i+1 \text{ do } \\
-    & \quad \quad \quad \vdots
-    \end{cases} \\
-  \begin{aligned}
-  \text{compute } m[i,i+3] \\
-  \underbrace{ \{ m[1,4],m[2,5], \dots ,m[n-3,n]\} }_{(n-3) \text{ values}}
-    \end{aligned}
-    & \begin{cases}
-    & \ell=4  \\
-    & \text{for } i=1 \text{ to } n-3 \text{ do } \\
-    & \quad m[i,i+3]=\infty \\
-    & \quad \quad \text{for } k=i \text{ to } i+2 \text{ do } \\
-    & \quad \quad \quad \vdots
-    \end{cases}
-\end{align}
-$$
-
----
-
-### Latex Örneği-2
-
-$$
-\begin{align*}
-& \text{OPTIMAL-BST-COST} (p, n) \\
-& \quad \text{for} \ i \leftarrow 1 \ \text{to} \ n \ \text{do} \\
-& \qquad c[i, i-1] \leftarrow 0 \\
-& \qquad c[i, i] \leftarrow p[i] \\
-& \qquad R[i, j] \leftarrow i \\
-& \quad PS[1] \leftarrow p[1] \Longleftarrow PS[i] \rightarrow  \text{ prefix-sum } (i): \text{Sum of all} \ p[j] \ \text{values for}  \ j \leq i
- \\
-& \quad \text{for} \ i \leftarrow 2 \ \text{to} \ n \ \text{do} \\
-& \qquad PS[i] \leftarrow p[i] + PS[i-1]  \Longleftarrow  \text{compute the prefix sum} \\
-& \quad \text{for} \ d \leftarrow 1 \ \text{to} \ n−1 \ \text{do}   \Longleftarrow  \text{BSTs with} \ d+1 \ \text{consecutive keys} \\
-& \qquad \text{for} \  i \leftarrow 1 \ \text{to} \ n – d \ \text{do} \\
-& \qquad \quad j \leftarrow i + d \\
-& \qquad \quad c[i, j] \leftarrow \infty \\
-& \qquad \quad \text{for} \ r \leftarrow i \ \text{to} \ j \ \text{do} \\
-& \qquad \qquad q \leftarrow min\{c[i,r-1] + c[r+1, j]\} +  PS[j] – PS[i-1]\} \\
-& \qquad \qquad \text{if} \ q < c[i, j] \ \text{then} \\
-& \qquad \qquad \quad c[i, j]  \leftarrow q \\
-& \qquad \qquad \quad R[i, j] \leftarrow r \\
-& \quad \text{return} \ c[1, n], R
-\end{align*}
-$$
-
----
-
-**YAPILACAKLAR** KURS NOTLARINIZ İÇİN İÇERİĞİ GÜNCELLEME
+**YAPILACAKLAR** DAHA FAZLA ARAŞTIRMA YAPIN
 
 --- 
 
 ## Referanslar
 
-- https://avesis.erdogan.edu.tr/ugur.coruh
-- https://www.linkedin.com/in/ugurcoruh/
-- https://www.hindawi.com/journals/scn/2018/6563089/ 
-- https://dl.acm.org/doi/abs/10.1145/3410352.3410836
-- https://www.sciencedirect.com/science/article/abs/pii/S2214212621002623 
-
+- https://www.linkedin.com/in/samet-kara%C5%9F-585999251/
 
 ---
 
